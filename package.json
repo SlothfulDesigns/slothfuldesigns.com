@@ -1,0 +1,30 @@
+{
+  "name": "slothfuldesigns.com",
+  "version": "1.0.0",
+  "description": "Slothful Designs' homepage",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "console.log(\"Hello World!\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlothfulDesigns/slothfuldesigns.com.git"
+  },
+  "keywords": [
+    "gamedev",
+    "slothful",
+    "designs",
+    "homepage",
+    "website"
+  ],
+  "author": "ze_kink",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlothfulDesigns/slothfuldesigns.com/issues"
+  },
+  "homepage": "https://github.com/SlothfulDesigns/slothfuldesigns.com#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
