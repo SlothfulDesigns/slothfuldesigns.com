@@ -1,14 +1,5 @@
-var React = require('react');
-var ReactDOM = require('react-dom');
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App.jsx';
 
-var HelloWorld = React.createClass({
-
-  render: function() {
-    return React.createElement("h1", null, "Hello World!");
-  },
-
-});
-
-ReactDOM.render(React.createElement("h1", null, "Hello World!"),
-  document.getElementById('main')
-);
+ReactDOM.render(<App />, document.getElementById('app'));
