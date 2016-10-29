@@ -158,23 +158,33 @@ a:hover.menu {
         padding-top: 20px;
     }
 	#menu{
+		display: inline-block;
 		padding-left: 0px;
 		padding-right: 0px;
 		position: relative;
+		width: 100%;
 	}
-	a:link.menu-link{
-		display: block;
-		margin: 0 auto;
-		margin-top: 5px;
+
+	#bannerTxt {
+		width: 100%;
+		padding: 20px;
+		margin: 0px;
+		margin-top: 250px;
+		box-sizing: border-box;
 	}
-	#main{
-		padding: 0;
+	#banner{
+		height: 460px;
+		background-size:cover;
+		background-position: center;
+	}
+
+	#container{
+		width: 100%;
+		padding: 10px;
 		margin: 0;
+		box-sizing: border-box;
 	}
-	.content-1, .content-2{
-		padding: 0;
-		margin: 0;		
-	}
+
 	.caseImg{
 		width: 100%;
 		margin: 0;
