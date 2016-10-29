@@ -4,6 +4,7 @@
   "description": "Slothful Designs' homepage",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "console.log(\"Hello World!\");"
   },
   "repository": {
