@@ -25,6 +25,8 @@
   },
   "homepage": "https://github.com/SlothfulDesigns/slothfuldesigns.com#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
   }
 }
