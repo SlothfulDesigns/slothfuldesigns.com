@@ -161,7 +161,14 @@ a:hover.menu {
 		padding-left: 0px;
 		padding-right: 0px;
 		position: relative;
+		width: 100%;
 	}
+
+	#bannerTxt {
+		width: 100%;
+	}
+
+
 	a:link.menu-link{
 		display: block;
 		margin: 0 auto;
@@ -171,7 +178,7 @@ a:hover.menu {
 		padding: 0;
 		margin: 0;
 	}
-	.content-1, .content-2{
+	.content{
 		padding: 0;
 		margin: 0;		
 	}
