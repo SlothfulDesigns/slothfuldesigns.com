@@ -4,7 +4,7 @@ function loadContent(page){
 	var home = {
 		quote:'<p id="bannerTxt">&quot;I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it.&quot;<br>-Bill Gates</p>',
 		img:'sloth.jpg',
-		content:'<h1>Welcome to Slothful Designs</h1><p>Slothful Designs is a game development company based in Helsinki, Finland.<br/>Currently we are working two games.</p>'
+		content:'<h1>Welcome to Slothful Designs</h1><p>Slothful Designs is a game development company based in Helsinki, Finland.<br/>Currently we are working on two games.</p>'
 		}
 
 	var games = {
